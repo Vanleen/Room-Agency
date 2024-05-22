@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/SafeRent/static/css/main.72637d7d.css",
+    "main.js": "/SafeRent/static/js/main.86e16ba6.js",
+    "static/media/SafeRent_Video.mp4": "/SafeRent/static/media/SafeRent_Video.f58e2ed142dcea65c23e.mp4",
+    "static/media/Safe.svg": "/SafeRent/static/media/Safe.719acb5e934e7139829c40141a50f84f.svg",
+    "static/media/Google.svg": "/SafeRent/static/media/Google.9db7ff0fd790a7935dedde84eecace2e.svg",
+    "static/media/Facebook.svg": "/SafeRent/static/media/Facebook.979e93605ca9f815c07d07e12420fce6.svg",
+    "index.html": "/SafeRent/index.html",
+    "main.72637d7d.css.map": "/SafeRent/static/css/main.72637d7d.css.map",
+    "main.86e16ba6.js.map": "/SafeRent/static/js/main.86e16ba6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72637d7d.css",
+    "static/js/main.86e16ba6.js"
+  ]
+}
